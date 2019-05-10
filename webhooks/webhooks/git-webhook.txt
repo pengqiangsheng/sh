@@ -1,0 +1,1722 @@
+================================================unknwon在2017-03-13T13:51:58-04:00推送了webhooks
+
+================================================
+unknwon在2017-03-13T13:51:58-04:00推送了webhooks
+
+================================================
+unknwon在2017-03-13T13:51:58-04:00推送了webhooks
+
+================================================
+unknwon在2017-03-13T13:51:58-04:00推送了webhooks
+
+================================================
+unknwon在2017-03-13T13:51:58-04:00推送了webhooks
+
+================================================
+unknwon在2017-03-13T13:51:58-04:00推送了webhooks
+
+================================================
+pqs在2019-04-19T03:19:12Z推送了blog
+
+================================================
+pqs在2019-04-19T04:29:21Z推送了blog
+
+================================================
+pqs在2019-04-19T04:55:31Z推送了blog
+
+================================================
+pqs在2019-04-19T04:55:31Z推送了blog
+
+================================================
+pqs在2019-04-19T04:58:09Z推送了blog
+
+================================================
+unknwon在2017-03-13T13:51:58-04:00推送了webhooks
+
+================================================
+unknwon在2017-03-13T13:51:58-04:00推送了webhooks
+
+================================================
+pqs在2019-04-19T05:05:42Z推送了blog
+===============================================
+deploying the web app
+blog
+/home/wwwroot/blog/
+http://aboutme.ink:10080/pqs/blog.git
+文件夹存在
+Already up-to-date.
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-10.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-7.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/next-config.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/hexo-config.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-9.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-8.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/24/\347\273\217\345\205\270\346\270\270\346\210\217\350\264\252\345\220\203\350\233\207Snake/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/hexo\347\224\237\346\210\220\345\215\232\346\226\207\346\217\222\345\205\245\345\233\276\347\211\207\347\232\204\345\212\236\346\263\225/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/10.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/7.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/11.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/8.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/9.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2019/04/19/Centos-cp-\345\216\273\346\216\211\350\246\206\347\233\226\346\217\220\351\206\222/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/about/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2019/04/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2019/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2018/08/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2018/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/hexo/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/Linux/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/github/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/javascript/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/css/main.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/quote-r.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/quote-l.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/favicon-32x32-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/yang-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc-sa.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/yang-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/loading.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc-nd.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/algolia_logo.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/logo.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/apple-touch-icon-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-sa.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/placeholder.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/favicon-16x16-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nd.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-zero.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/alipay.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/20.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/avatar.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/searchicon.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/love.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/15.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/mycoding.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/gitalk.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/hook-duoshuo.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/schemes/pisces.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/algolia-search.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/motion.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/bootstrap.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/gitalk.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/exturl.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/scrollspy.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/affix.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/post-details.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/md5.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/scroll-cookie.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/js.cookie.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/utils.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/love.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/message.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/js/message.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/js/live2d.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/css/live2d.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/model.moc': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath8.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sleeping.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/WakeUp.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Success.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Fail.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath9.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath7.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/model.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/textures/default-costume.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/LICENSE': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/lib/fastclick.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/lib/fastclick.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/README.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/algolia-instant-search/instantsearch.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/algolia-instant-search/instantsearch.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_sprite@2x.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.pack.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_overlay.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_loading@2x.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/blank.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_loading.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-media.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-buttons.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/fancybox_buttons.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-buttons.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_sprite.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/ua-parser-js/dist/ua-parser.pack.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/ua-parser-js/dist/ua-parser.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han-space.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han-space.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.woff2': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-barber-shop.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-corner-indicator.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-bounce.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-flash.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-minimal.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-loading-bar.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-atom.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-big-counter.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-simple.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-fill-left.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-circle.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-mac-osx.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-radar.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/canvas-nest/canvas-nest.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.ui.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.ui.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/canvas_lines.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/three.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/canvas_sphere.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/three-waves.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/canvas-ribbon/canvas-ribbon.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/jquery.scrollstop.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/jquery.lazyload.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/README.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/CONTRIBUTING.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/HELP-US-OUT.txt': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.css.map': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.eot': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.woff2': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.ttf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/FontAwesome.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/needsharebutton.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/font-embedded.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/needsharebutton.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery/index.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/hexo/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/CentOs/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/Linux/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/github/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/javascript/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/default.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/13.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/alipay.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/12.jpg': Permission denied
+web server pull at webserver at time: Fri Apr 19 17:41:18 CST 2019.
+success!
+================================================
+
+================================================
+pqs在2019-04-19T05:09:21Z推送了blog
+===============================================
+deploying the web app
+blog
+/home/wwwroot/blog/
+http://aboutme.ink:10080/pqs/blog.git
+文件夹存在
+Already up-to-date.
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-10.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-7.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/next-config.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/hexo-config.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-9.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-8.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/24/\347\273\217\345\205\270\346\270\270\346\210\217\350\264\252\345\220\203\350\233\207Snake/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/hexo\347\224\237\346\210\220\345\215\232\346\226\207\346\217\222\345\205\245\345\233\276\347\211\207\347\232\204\345\212\236\346\263\225/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/10.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/7.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/11.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/8.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/9.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2019/04/19/Centos-cp-\345\216\273\346\216\211\350\246\206\347\233\226\346\217\220\351\206\222/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/about/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2019/04/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2019/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2018/08/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2018/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/hexo/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/Linux/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/github/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/javascript/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/css/main.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/quote-r.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/quote-l.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/favicon-32x32-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/yang-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc-sa.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/yang-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/loading.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc-nd.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/algolia_logo.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/logo.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/apple-touch-icon-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-sa.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/placeholder.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/favicon-16x16-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nd.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-zero.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/alipay.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/20.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/avatar.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/searchicon.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/love.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/15.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/mycoding.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/gitalk.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/hook-duoshuo.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/schemes/pisces.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/algolia-search.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/motion.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/bootstrap.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/gitalk.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/exturl.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/scrollspy.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/affix.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/post-details.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/md5.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/scroll-cookie.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/js.cookie.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/utils.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/love.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/message.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/js/message.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/js/live2d.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/css/live2d.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/model.moc': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath8.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sleeping.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/WakeUp.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Success.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Fail.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath9.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath7.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/model.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/textures/default-costume.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/LICENSE': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/lib/fastclick.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/lib/fastclick.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/README.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/algolia-instant-search/instantsearch.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/algolia-instant-search/instantsearch.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_sprite@2x.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.pack.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_overlay.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_loading@2x.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/blank.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_loading.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-media.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-buttons.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/fancybox_buttons.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-buttons.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_sprite.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/ua-parser-js/dist/ua-parser.pack.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/ua-parser-js/dist/ua-parser.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han-space.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han-space.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.woff2': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-barber-shop.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-corner-indicator.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-bounce.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-flash.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-minimal.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-loading-bar.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-atom.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-big-counter.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-simple.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-fill-left.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-circle.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-mac-osx.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-radar.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/canvas-nest/canvas-nest.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.ui.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.ui.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/canvas_lines.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/three.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/canvas_sphere.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/three-waves.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/canvas-ribbon/canvas-ribbon.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/jquery.scrollstop.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/jquery.lazyload.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/README.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/CONTRIBUTING.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/HELP-US-OUT.txt': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.css.map': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.eot': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.woff2': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.ttf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/FontAwesome.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/needsharebutton.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/font-embedded.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/needsharebutton.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery/index.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/hexo/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/CentOs/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/Linux/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/github/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/javascript/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/default.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/13.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/alipay.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/12.jpg': Permission denied
+web server pull at webserver at time: Fri Apr 19 17:41:18 CST 2019.
+success!
+================================================
+
+================================================
+pqs在2019-04-19T05:11:48Z推送了blog
+===============================================
+deploying the web app
+blog
+/home/wwwroot/blog/
+http://aboutme.ink:10080/pqs/blog.git
+文件夹存在
+Already up-to-date.
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-10.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-7.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/next-config.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/hexo-config.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-9.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-8.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/24/\347\273\217\345\205\270\346\270\270\346\210\217\350\264\252\345\220\203\350\233\207Snake/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/hexo\347\224\237\346\210\220\345\215\232\346\226\207\346\217\222\345\205\245\345\233\276\347\211\207\347\232\204\345\212\236\346\263\225/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/10.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/7.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/11.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/8.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/9.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2019/04/19/Centos-cp-\345\216\273\346\216\211\350\246\206\347\233\226\346\217\220\351\206\222/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/about/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2019/04/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2019/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2018/08/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2018/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/hexo/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/Linux/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/github/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/javascript/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/css/main.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/quote-r.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/quote-l.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/favicon-32x32-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/yang-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc-sa.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/yang-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/loading.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc-nd.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/algolia_logo.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/logo.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/apple-touch-icon-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-sa.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/placeholder.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/favicon-16x16-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nd.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-zero.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/alipay.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/20.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/avatar.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/searchicon.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/love.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/15.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/mycoding.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/gitalk.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/hook-duoshuo.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/schemes/pisces.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/algolia-search.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/motion.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/bootstrap.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/gitalk.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/exturl.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/scrollspy.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/affix.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/post-details.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/md5.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/scroll-cookie.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/js.cookie.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/utils.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/love.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/message.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/js/message.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/js/live2d.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/css/live2d.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/model.moc': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath8.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sleeping.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/WakeUp.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Success.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Fail.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath9.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath7.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/model.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/textures/default-costume.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/LICENSE': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/lib/fastclick.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/lib/fastclick.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/README.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/algolia-instant-search/instantsearch.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/algolia-instant-search/instantsearch.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_sprite@2x.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.pack.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_overlay.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_loading@2x.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/blank.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_loading.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-media.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-buttons.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/fancybox_buttons.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-buttons.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_sprite.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/ua-parser-js/dist/ua-parser.pack.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/ua-parser-js/dist/ua-parser.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han-space.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han-space.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.woff2': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-barber-shop.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-corner-indicator.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-bounce.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-flash.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-minimal.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-loading-bar.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-atom.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-big-counter.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-simple.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-fill-left.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-circle.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-mac-osx.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-radar.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/canvas-nest/canvas-nest.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.ui.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.ui.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/canvas_lines.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/three.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/canvas_sphere.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/three-waves.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/canvas-ribbon/canvas-ribbon.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/jquery.scrollstop.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/jquery.lazyload.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/README.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/CONTRIBUTING.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/HELP-US-OUT.txt': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.css.map': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.eot': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.woff2': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.ttf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/FontAwesome.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/needsharebutton.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/font-embedded.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/needsharebutton.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery/index.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/hexo/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/CentOs/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/Linux/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/github/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/javascript/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/default.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/13.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/alipay.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/12.jpg': Permission denied
+web server pull at webserver at time: Fri Apr 19 17:41:18 CST 2019.
+success!
+================================================
+
+================================================
+pqs在2019-04-19T06:47:39Z推送了blog
+===============================================
+deploying the web app
+blog
+/home/wwwroot/blog/
+http://aboutme.ink:10080/pqs/blog.git
+文件夹存在
+Already up-to-date.
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-10.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-7.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/next-config.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/hexo-config.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-9.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-8.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/24/\347\273\217\345\205\270\346\270\270\346\210\217\350\264\252\345\220\203\350\233\207Snake/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/hexo\347\224\237\346\210\220\345\215\232\346\226\207\346\217\222\345\205\245\345\233\276\347\211\207\347\232\204\345\212\236\346\263\225/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/10.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/7.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/11.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/8.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/9.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2019/04/19/Centos-cp-\345\216\273\346\216\211\350\246\206\347\233\226\346\217\220\351\206\222/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/about/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2019/04/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2019/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2018/08/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2018/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/hexo/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/Linux/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/github/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/javascript/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/css/main.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/quote-r.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/quote-l.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/favicon-32x32-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/yang-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc-sa.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/yang-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/loading.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc-nd.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/algolia_logo.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/logo.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/apple-touch-icon-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-sa.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/placeholder.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/favicon-16x16-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nd.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-zero.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/alipay.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/20.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/avatar.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/searchicon.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/love.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/15.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/mycoding.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/gitalk.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/hook-duoshuo.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/schemes/pisces.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/algolia-search.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/motion.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/bootstrap.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/gitalk.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/exturl.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/scrollspy.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/affix.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/post-details.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/md5.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/scroll-cookie.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/js.cookie.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/utils.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/love.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/message.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/js/message.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/js/live2d.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/css/live2d.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/model.moc': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath8.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sleeping.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/WakeUp.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Success.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Fail.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath9.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath7.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/model.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/textures/default-costume.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/LICENSE': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/lib/fastclick.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/lib/fastclick.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/README.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/algolia-instant-search/instantsearch.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/algolia-instant-search/instantsearch.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_sprite@2x.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.pack.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_overlay.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_loading@2x.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/blank.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_loading.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-media.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-buttons.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/fancybox_buttons.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-buttons.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_sprite.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/ua-parser-js/dist/ua-parser.pack.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/ua-parser-js/dist/ua-parser.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han-space.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han-space.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.woff2': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-barber-shop.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-corner-indicator.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-bounce.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-flash.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-minimal.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-loading-bar.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-atom.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-big-counter.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-simple.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-fill-left.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-circle.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-mac-osx.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-radar.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/canvas-nest/canvas-nest.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.ui.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.ui.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/canvas_lines.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/three.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/canvas_sphere.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/three-waves.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/canvas-ribbon/canvas-ribbon.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/jquery.scrollstop.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/jquery.lazyload.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/README.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/CONTRIBUTING.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/HELP-US-OUT.txt': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.css.map': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.eot': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.woff2': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.ttf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/FontAwesome.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/needsharebutton.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/font-embedded.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/needsharebutton.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery/index.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/hexo/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/CentOs/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/Linux/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/github/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/javascript/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/default.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/13.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/alipay.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/12.jpg': Permission denied
+web server pull at webserver at time: Fri Apr 19 17:41:18 CST 2019.
+success!
+================================================
+
+================================================
+pqs在2019-04-19T06:52:19Z推送了blog
+===============================================
+deploying the web app
+blog
+/home/wwwroot/blog/
+http://aboutme.ink:10080/pqs/blog.git
+文件夹存在
+Already up-to-date.
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-10.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-7.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/next-config.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/hexo-config.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-9.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-8.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/24/\347\273\217\345\205\270\346\270\270\346\210\217\350\264\252\345\220\203\350\233\207Snake/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/hexo\347\224\237\346\210\220\345\215\232\346\226\207\346\217\222\345\205\245\345\233\276\347\211\207\347\232\204\345\212\236\346\263\225/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/10.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/7.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/11.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/8.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/9.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2019/04/19/Centos-cp-\345\216\273\346\216\211\350\246\206\347\233\226\346\217\220\351\206\222/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/about/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2019/04/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2019/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2018/08/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2018/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/hexo/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/Linux/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/github/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/javascript/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/css/main.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/quote-r.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/quote-l.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/favicon-32x32-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/yang-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc-sa.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/yang-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/loading.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc-nd.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/algolia_logo.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/logo.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/apple-touch-icon-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-sa.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/placeholder.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/favicon-16x16-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nd.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-zero.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/alipay.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/20.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/avatar.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/searchicon.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/love.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/15.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/mycoding.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/gitalk.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/hook-duoshuo.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/schemes/pisces.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/algolia-search.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/motion.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/bootstrap.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/gitalk.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/exturl.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/scrollspy.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/affix.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/post-details.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/md5.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/scroll-cookie.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/js.cookie.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/utils.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/love.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/message.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/js/message.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/js/live2d.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/css/live2d.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/model.moc': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath8.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sleeping.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/WakeUp.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Success.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Fail.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath9.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath7.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/model.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/textures/default-costume.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/LICENSE': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/lib/fastclick.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/lib/fastclick.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/README.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/algolia-instant-search/instantsearch.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/algolia-instant-search/instantsearch.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_sprite@2x.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.pack.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_overlay.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_loading@2x.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/blank.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_loading.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-media.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-buttons.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/fancybox_buttons.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-buttons.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_sprite.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/ua-parser-js/dist/ua-parser.pack.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/ua-parser-js/dist/ua-parser.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han-space.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han-space.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.woff2': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-barber-shop.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-corner-indicator.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-bounce.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-flash.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-minimal.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-loading-bar.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-atom.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-big-counter.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-simple.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-fill-left.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-circle.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-mac-osx.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-radar.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/canvas-nest/canvas-nest.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.ui.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.ui.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/canvas_lines.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/three.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/canvas_sphere.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/three-waves.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/canvas-ribbon/canvas-ribbon.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/jquery.scrollstop.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/jquery.lazyload.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/README.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/CONTRIBUTING.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/HELP-US-OUT.txt': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.css.map': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.eot': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.woff2': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.ttf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/FontAwesome.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/needsharebutton.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/font-embedded.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/needsharebutton.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery/index.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/hexo/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/CentOs/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/Linux/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/github/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/javascript/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/default.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/13.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/alipay.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/12.jpg': Permission denied
+web server pull at webserver at time: Fri Apr 19 17:41:18 CST 2019.
+success!
+================================================
+
+================================================
+pqs在2019-04-19T07:11:30Z推送了blog
+===============================================
+deploying the web app
+blog
+/home/wwwroot/blog/
+http://aboutme.ink:10080/pqs/blog.git
+文件夹存在
+Already up-to-date.
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-10.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-7.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/next-config.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/hexo-config.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-9.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-8.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/24/\347\273\217\345\205\270\346\270\270\346\210\217\350\264\252\345\220\203\350\233\207Snake/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/hexo\347\224\237\346\210\220\345\215\232\346\226\207\346\217\222\345\205\245\345\233\276\347\211\207\347\232\204\345\212\236\346\263\225/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/10.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/7.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/11.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/8.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/9.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2019/04/19/Centos-cp-\345\216\273\346\216\211\350\246\206\347\233\226\346\217\220\351\206\222/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/about/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2019/04/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2019/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2018/08/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2018/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/hexo/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/Linux/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/github/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/javascript/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/css/main.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/quote-r.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/quote-l.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/favicon-32x32-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/yang-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc-sa.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/yang-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/loading.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc-nd.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/algolia_logo.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/logo.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/apple-touch-icon-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-sa.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/placeholder.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/favicon-16x16-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nd.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-zero.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/alipay.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/20.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/avatar.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/searchicon.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/love.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/15.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/mycoding.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/gitalk.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/hook-duoshuo.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/schemes/pisces.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/algolia-search.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/motion.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/bootstrap.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/gitalk.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/exturl.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/scrollspy.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/affix.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/post-details.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/md5.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/scroll-cookie.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/js.cookie.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/utils.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/love.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/message.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/js/message.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/js/live2d.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/css/live2d.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/model.moc': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath8.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sleeping.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/WakeUp.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Success.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Fail.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath9.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath7.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/model.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/textures/default-costume.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/LICENSE': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/lib/fastclick.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/lib/fastclick.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/README.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/algolia-instant-search/instantsearch.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/algolia-instant-search/instantsearch.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_sprite@2x.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.pack.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_overlay.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_loading@2x.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/blank.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_loading.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-media.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-buttons.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/fancybox_buttons.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-buttons.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_sprite.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/ua-parser-js/dist/ua-parser.pack.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/ua-parser-js/dist/ua-parser.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han-space.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han-space.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.woff2': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-barber-shop.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-corner-indicator.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-bounce.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-flash.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-minimal.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-loading-bar.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-atom.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-big-counter.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-simple.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-fill-left.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-circle.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-mac-osx.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-radar.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/canvas-nest/canvas-nest.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.ui.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.ui.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/canvas_lines.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/three.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/canvas_sphere.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/three-waves.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/canvas-ribbon/canvas-ribbon.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/jquery.scrollstop.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/jquery.lazyload.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/README.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/CONTRIBUTING.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/HELP-US-OUT.txt': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.css.map': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.eot': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.woff2': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.ttf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/FontAwesome.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/needsharebutton.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/font-embedded.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/needsharebutton.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery/index.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/hexo/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/CentOs/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/Linux/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/github/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/javascript/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/default.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/13.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/alipay.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/12.jpg': Permission denied
+web server pull at webserver at time: Fri Apr 19 17:41:18 CST 2019.
+success!
+================================================
+
+================================================
+pqs在2019-04-19T09:31:18Z推送了blog
+===============================================
+deploying the web app
+blog
+/home/wwwroot/blog/
+http://aboutme.ink:10080/pqs/blog.git
+文件夹存在
+Already up-to-date.
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-10.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-7.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/next-config.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/hexo-config.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-9.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-8.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/5-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/20/\347\224\250hexo\345\222\214github\346\220\255\345\273\272\344\270\252\344\272\272\345\215\232\345\256\242\345\260\217\347\253\231\345\205\250\346\224\273\347\225\245/6-5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/24/\347\273\217\345\205\270\346\270\270\346\210\217\350\264\252\345\220\203\350\233\207Snake/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/hexo\347\224\237\346\210\220\345\215\232\346\226\207\346\217\222\345\205\245\345\233\276\347\211\207\347\232\204\345\212\236\346\263\225/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/6.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/10.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/5.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/7.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/11.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/4.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/3.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/8.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/9.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2018/08/17/github\346\233\264\346\226\260\351\241\271\347\233\256/1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/2019/04/19/Centos-cp-\345\216\273\346\216\211\350\246\206\347\233\226\346\217\220\351\206\222/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/about/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2019/04/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2019/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2018/08/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/archives/2018/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/hexo/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/Linux/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/github/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/categories/javascript/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/css/main.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/quote-r.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/quote-l.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/favicon-32x32-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/yang-1.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc-sa.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/yang-2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/loading.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nc-nd.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/algolia_logo.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/logo.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/apple-touch-icon-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-sa.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/placeholder.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/favicon-16x16-next.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by-nd.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-zero.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/alipay.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/2.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/20.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/avatar.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/cc-by.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/searchicon.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/love.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/images/15.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/mycoding.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/gitalk.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/hook-duoshuo.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/schemes/pisces.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/algolia-search.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/motion.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/bootstrap.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/gitalk.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/exturl.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/scrollspy.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/affix.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/post-details.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/md5.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/scroll-cookie.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/js.cookie.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/utils.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/src/love.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/message.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/js/message.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/js/live2d.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/css/live2d.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/model.moc': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sukebei3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath8.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Sleeping.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/WakeUp.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath Dere2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Success.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere5.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Fail.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath6.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch3.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath1.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath9.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch Dere2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Touch2.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath7.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/motions/Breath4.mtn': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/model.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/js/live2d/model/tia/textures/default-costume.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/LICENSE': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/lib/fastclick.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/lib/fastclick.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/README.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fastclick/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/algolia-instant-search/instantsearch.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/algolia-instant-search/instantsearch.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_sprite@2x.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.pack.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_overlay.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_loading@2x.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/blank.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_loading.gif': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/jquery.fancybox.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-media.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-buttons.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/fancybox_buttons.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/helpers/jquery.fancybox-buttons.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/fancybox/source/fancybox_sprite.png': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/ua-parser-js/dist/ua-parser.pack.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/ua-parser-js/dist/ua-parser.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han-space.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han-space.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/font/han.woff2': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/Han/dist/han.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-barber-shop.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-corner-indicator.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-bounce.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-flash.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-minimal.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-loading-bar.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-atom.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-big-counter.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-simple.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-fill-left.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-circle.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-mac-osx.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/pace/pace-theme-center-radar.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/canvas-nest/canvas-nest.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.ui.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/velocity/velocity.ui.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/canvas_lines.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/three.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/canvas_sphere.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/three/three-waves.min.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/canvas-ribbon/canvas-ribbon.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/jquery.scrollstop.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/jquery.lazyload.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/README.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery_lazyload/CONTRIBUTING.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/HELP-US-OUT.txt': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.css.map': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/css/font-awesome.min.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/bower.json': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.eot': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.woff': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.woff2': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.ttf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/fontawesome-webfont.svg': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/font-awesome/fonts/FontAwesome.otf': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/needsharebutton.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/font-embedded.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/needsharebutton/needsharebutton.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/lib/jquery/index.js': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/hexo/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/CentOs/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/Linux/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/github/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/tags/javascript/index.html': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/default.css': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/13.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/alipay.jpg': Permission denied
+cp: cannot remove '/home/wwwroot/default/uploads/12.jpg': Permission denied
+web server pull at webserver at time: Fri Apr 19 17:41:19 CST 2019.
+success!
+================================================
+
+================================================
+pqs在2019-04-19T09:34:00Z推送了blog
+===============================================
+deploying the web app
+blog
+/home/wwwroot/blog/
+http://aboutme.ink:10080/pqs/blog.git
+文件夹存在
+Updating e15e374..83ff9a4
+Fast-forward
+ .../index.html"                                                |  8 ++++----
+ .../index.html"                                                |  4 ++--
+ atom.xml                                                       | 10 +++++-----
+ baidusitemap.xml                                               |  6 +++---
+ category-sitemap.xml                                           |  2 +-
+ css/main.css                                                   |  2 +-
+ post-sitemap.xml                                               |  2 +-
+ search.xml                                                     |  4 ++--
+ sitemap.xml                                                    |  2 +-
+ tag-sitemap.xml                                                |  4 ++--
+ 10 files changed, 22 insertions(+), 22 deletions(-)
+web server pull at webserver at time: Fri Apr 19 18:02:22 CST 2019.
+success!
+================================================
+
+================================================
+pqs在2019-04-19T10:12:08Z推送了blog
+===============================================
+deploying the web app
+blog
+/home/wwwroot/blog/
+http://aboutme.ink:10080/pqs/blog.git
+文件夹存在
+web server pull at webserver at time: Fri Apr 19 18:16:05 CST 2019.
+success!
+================================================
+
+================================================
+pqs在2019-04-22T08:07:08Z推送了img
+===============================================
+deploying the web app
+文件夹存在
+repo存在
+web server pull at webserver at time: Mon Apr 22 16:46:46 CST 2019.
+访问地址：http://ip/pqs/img/index.html
+================================================
+
+================================================
+pqs在2019-04-22T08:46:27Z推送了img
+===============================================
+deploying the web app
+文件夹存在
+repo存在
+web server pull at webserver at time: Tue Apr 23 21:14:56 CST 2019.
+访问地址：http://ip/pqs/img/index.html
+================================================
+
+================================================
+pqs在2019-04-23T04:28:12Z推送了img
+===============================================
+deploying the web app
+文件夹存在
+repo存在
+web server pull at webserver at time: Tue Apr 23 21:14:56 CST 2019.
+访问地址：http://ip/pqs/img/index.html
+================================================
+
